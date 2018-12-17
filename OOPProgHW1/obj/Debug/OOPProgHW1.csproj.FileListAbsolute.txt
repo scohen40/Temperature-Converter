@@ -1,0 +1,10 @@
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\bin\Debug\OOPProgHW1.exe.config
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\bin\Debug\OOPProgHW1.exe
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\bin\Debug\OOPProgHW1.pdb
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.csprojAssemblyReference.cache
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.Properties.Resources.resources
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.csproj.GenerateResource.cache
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.csproj.CoreCompileInputs.cache
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.exe
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.pdb
+C:\Users\cohen\source\repos\OOPProgHW1\OOPProgHW1\obj\Debug\OOPProgHW1.TemperatureConverterView.resources
